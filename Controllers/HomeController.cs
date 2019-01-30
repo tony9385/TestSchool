@@ -22,7 +22,7 @@ namespace testschool.Controllers
         }
         public IActionResult Index()
         {
-            ViewData["Title"] = "Hello Docker azure";
+            ViewData["Title"] = "Hello Docker azure second";
             Login login = new Login();
             string ss = AppSettings.AzureStorageAccountContainer;
            // login.TestOpen();
