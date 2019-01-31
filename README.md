@@ -8,3 +8,5 @@ The steps of how to update\commit\build\deploy the project
 6. docker build -t yubao/testschool
 7. docker push yubao/testschool (maybe you need login first docker login)
 8. docker pull yubao/testschool
+9. docker tag 0e5574283393 fedora/httpd:version1.0  or 
+   docker tag httpd fedora/httpd:version1.0
