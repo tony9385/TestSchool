@@ -1,5 +1,5 @@
 # TestSchool
-The steps of how to update\commit\build\deploy the project
+The steps of how to update\commit\build\deploy the project 
 1. udpate code   
 2. git add .   
 3. git commit -m "message"  
